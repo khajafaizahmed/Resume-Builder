@@ -1,9 +1,7 @@
 package com.company;
 import java.util.*;
 /**
- * Faiz Ahmed, CS 210, Winter 2022.
- * Programming Assignment#2
- *
+ * Faiz Ahmed, 
  * A program that builds a resume!
  */
 public class Main
